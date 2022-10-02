@@ -25,7 +25,7 @@ const Index = () => {
             {
                 users.map((curElem) => {
                     return (
-                        <div className="col-lg-3 col-md-4 col-sm-6 text-center mb-4">
+                        <div className="col-lg-4 col-md-4 col-sm-6 text-center mb-4">
                             <div class="card user-card"  key={curElem.id}>
                                 <div class="card-up"></div>
                                 <div class="avatar mx-auto bg-white">
