@@ -4,11 +4,11 @@ export default function Header() {
     return (
         <div class="container">
             
-            <div class="row d-flex justify-content-center">
-                <div class="col-md-10 col-xl-8 text-center">
-                <h1 class="my-5">Assignment Project</h1>
-                </div>
-                </div>
+            <nav class="navbar navbar-light bg-light my-5">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">React Project</a>
+  </div>
+</nav>
         </div>
     )
 }
