@@ -6,7 +6,7 @@ export default function Header() {
             
             <nav class="navbar navbar-light bg-light my-5">
   <div class="container-fluid">
-    <a class="#!" href="#">React Project</a>
+    <a class="navbar-brand" href="#!">React Project</a>
   </div>
 </nav>
         </div>
